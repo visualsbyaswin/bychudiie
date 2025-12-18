@@ -16,7 +16,7 @@ LenisScroll()
       <BrowserRouter  >
   
         <Routes>
-          <Route path="/byaswin" element={<Home/>} />
+          <Route path="/bychudiie" element={<Home/>} />
 
         </Routes>
       </BrowserRouter>
